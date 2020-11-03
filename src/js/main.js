@@ -14,7 +14,7 @@ window.addEventListener('DOMContentLoaded', () => {
     changeModalState(modalState);
 
     modals(modalState);
-    timer(".timer", "2020-09-30");
+    timer(".timer", "2020-12-30");
     tabs();
     forms(modalState);
     images();
